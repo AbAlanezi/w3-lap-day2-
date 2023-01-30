@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(233, 239, 244);
+}
+/* .table{
+    margin: 36%;
+} */
+.td1{
+
+    /* display: grid;
+    row-gap: 2px; */
+    margin: 22px ;
+   
+}
+.comtenr{
+margin: 2%;
+}
+.lang{
+    margin-left: 3%;
+}
